@@ -21,14 +21,14 @@ Part of the OBR team that represents the 221 unity of the SESI school system
         <img 
             alt="Total of stars" 
             title="Stars total GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rbrecci?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/rbrecci?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/rbrecci?tab=followers">
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rbrecci?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/rbrecci?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
