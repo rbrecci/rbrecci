@@ -1,6 +1,5 @@
 # 👾RBrecci
 ## Welcome to my profile!
-<stronger>[RBrecci](https://github.com/rbrecci/rbrecci)
 
 **`System Analysis and Development Student`**
 
