@@ -1,5 +1,5 @@
 # 👾RBrecci
-## *Welcome to my profile!*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=245CF7&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 **`System Analysis and Development Student`**
 
