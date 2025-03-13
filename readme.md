@@ -1,4 +1,4 @@
-![RBrecci](https://via.placeholder.com/400x100.png?text=Meu+Perfil+em+Fira+Code)
+[![RBrecci](https://via.placeholder.com?text=Meu+Perfil+em+Fira+Code)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=245CF7&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 **`System Analysis and Development Student`**
