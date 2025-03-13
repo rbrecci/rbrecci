@@ -3,11 +3,11 @@
 
 **`System Analysis and Development Student`**
 
-I am a student who likes challenges and learn about technology
+I am a student who likes challenges and learn about technology 🧑‍💻
 
-Basic excel course certified by SENAI
+Basic excel course certified by SENAI 
 
-Part of the OBR team that represents the 221 unity of the SESI school system
+Part of the OBR team that represents the 221 unity of the SESI school system 🦾
 
 <p align="left">
     <a href="">
