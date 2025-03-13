@@ -14,7 +14,7 @@ Part of the OBR team that represents the 221 unity of the SESI school system �
         <img 
             alt="Local" 
             title="Localização" 
-            src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-labelColor=1155ba?style=for-the-badge&logo=location&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-color=236ad3&labelColor=1155ba?style=for-the-badge&logo=location&logoColor=white"
         />
     </a> 
     <a href="https://github.com/rbrecci?tab=repositories">
