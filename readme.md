@@ -11,7 +11,7 @@ Basic excel course certified by SENAI
 Part of the OBR team that represents the 221 unity of the SESI school system 🦾
 
 <p align="left">
-    <a href="">
+    <a href="https://www.google.com/maps/place/Santo+Andr%C3%A9,+State+of+S%C3%A3o+Paulo/@-23.7100744,-46.5876691,11z/data=!3m1!4b1!4m6!3m5!1s0x94ce4278871d7eef:0x9eaaca862adb4ede!8m2!3d-23.6876695!4d-46.493085!16zL20vMDN0ZnYy?entry=ttu&g_ep=EgoyMDI1MDgxMi4wIKXMDSoASAFQAw%3D%3D">
         <img 
             alt="Local" 
             title="Localização" 
