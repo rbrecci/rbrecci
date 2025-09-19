@@ -1,8 +1,8 @@
 # 👋 Hi, I'm RBrecci  
 
-<img src="https://media.tenor.com/shZ2TUcYwbIAAAAM/grimm.gif" width="200" />
+<img src="https://media.tenor.com/shZ2TUcYwbIAAAAM/grimm.gif" width="200" style="border: 4px solid #F50033; border-radius: 10px;" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=245CF7&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F50033&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ---
 
