@@ -1,4 +1,4 @@
-# 👋 Hi, I'm RBrecci  
+# Hi, I'm RBrecci  
 
 <img src="https://media.tenor.com/shZ2TUcYwbIAAAAM/grimm.gif" width="200" style="border: 4px solid #F50033; border-radius: 10px;" />
 
@@ -38,25 +38,25 @@
 ## 🌍 Connect with me  
 
 <p align="left">
-    <a href="https://www.google.com/maps/place/Santo+Andr%C3%A9,+State+of+S%C3%A3o+Paulo">
+    <a href="https://discordapp.com/users/.sakker." target="_blank">
         <img 
-            alt="Location" 
-            title="Location" 
-            src="https://custom-icon-badges.demolab.com/badge/São Paulo-BR-royalblue?style=for-the-badge&logo=location&logoColor=white"
-        />
-    </a> 
-    <a href="https://github.com/rbrecci?tab=repositories">
-        <img 
-            alt="Total Stars" 
-            title="GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/rbrecci?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
+            alt="Discord" 
+            title="Discord" 
+            src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
         />
     </a>
-    <a href="https://github.com/rbrecci?tab=followers">
+    <a href="[https://www.linkedin.com/in/rafael-brecci-de-souza-2b381b385/]" target="_blank">
         <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/rbrecci?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+            alt="LinkedIn" 
+            title="LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+    <a href="mailto:rbrecci04@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Gmail" 
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
 </p>
