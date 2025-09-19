@@ -1,16 +1,17 @@
 # 👋 Hi, I'm RBrecci  
 
-![Banner](https://via.placeholder.com/1000x250.png?text=Welcome+to+my+GitHub+Profile)  
+<img src="https://media.tenor.com/shZ2TUcYwbIAAAAM/grimm.gif" width="200" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=245CF7&width=435&lines=Welcome+to+my+profile!;System+Analysis+and+Development+Student;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=245CF7&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 About me  
-- 🎓 **System Analysis and Development Student**  
+- 🎓 System Analysis and Development Student  
 - 🧑‍💻 Passionate about technology and challenges  
-- 📊 Basic Excel course certified by **SENAI**  
-- 🏆 Olympic competitor at **SP-Skills**, representing **Senai A. Jacob Laffer** 🦾  
+- 📊 Basic Excel course certified by SENAI  
+- 🏆 Olympic competitor at SP-Skills, representing Senai A. Jacob Laffer 🦾  
+
 
 ---
 
@@ -26,10 +27,9 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Used Technologies  
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rbrecci&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrecci&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
