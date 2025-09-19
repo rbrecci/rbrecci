@@ -45,7 +45,7 @@
             src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
         />
     </a>
-    <a href="[https://www.linkedin.com/in/rafael-brecci-de-souza-2b381b385/]" target="_blank">
+    <a href="[[https://www.linkedin.com/in/rafael-brecci-de-souza-2b381b385/]](https://www.linkedin.com/in/rafael-brecci-de-souza-2b381b385/)" target="_blank">
         <img 
             alt="LinkedIn" 
             title="LinkedIn" 
