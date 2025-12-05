@@ -27,7 +27,7 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
----
+<!-- ---
 
 ## 📊 Used Technologies  
 
@@ -35,6 +35,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbrecci&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
+-->
 ---
 
 ## 🌍 Connect with me  
