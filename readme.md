@@ -9,7 +9,7 @@
 ## 🚀 About me  
 - 🎓 System Analysis and Development Student  
 - 🧑‍💻 Passionate about technology and challenges  
-- 📊 Basic Excel course certified by SENAI  
+- 📊 Basic Excel, Security at Work, Ethics in AI, Fundamentals of AI, Decoding Decarbonization and Inside Cybersecurity courses certified by SENAI  
 - 🏆 Olympic competitor at SP-Skills, representing Senai A. Jacob Laffer 🦾  
 
 
