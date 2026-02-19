@@ -8,7 +8,7 @@
                 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=F50033&width=250&lines=Welcome+to+my+profile!" />
             </a>
         </td>
-        <td>
+        <td valign="middle">
             <h1>🚀 About me </h1>
             <p>- 🎓 System Analysis and Development Student</p>
             <p>- 🧑‍💻 Passionate about technology and challenges</p>
