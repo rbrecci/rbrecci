@@ -1,21 +1,29 @@
 # Hi, I'm Brecci
 <table>
-    <tr>
-        <td>
-            <img src="https://media.tenor.com/shZ2TUcYwbIAAAAM/grimm.gif" width="200" style="border: 4px solid #F50033; border-radius: 10px;" />
-            <br>
-            <a href="https://git.io/typing-svg">
-                <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=F50033&width=250&lines=Welcome+to+my+profile!" />
-            </a>
-        </td>
-        <td valign="middle">
-            <h1>🚀 About me </h1>
-            <p>- 🎓 System Analysis and Development Student</p>
-            <p>- 🧑‍💻 Passionate about technology and challenges</p>
-            <p>- 📊 Basic Excel, Security at Work, Ethics in AI, Fundamentals of AI, Decoding Decarbonization and Inside Cybersecurity courses certified by SENAI</p> 
-            <p>- 🏆 Olympic competitor at SP-Skills, representing Senai A. Jacob Laffer 🦾</p>
-        </td>
-    </tr>
+  <tr>
+    <td style="padding-right: 25px;">
+      <img 
+        src="https://media.tenor.com/shZ2TUcYwbIAAAAM/grimm.gif" 
+        width="200"
+        style="border: 4px solid #F50033; border-radius: 10px;"
+      />
+      <br><br>
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=F50033&width=250&lines=Welcome+to+my+profile!" />
+      </p>
+    </td>
+
+<td style="vertical-align: middle; text-align: center;">
+<h2 align="center">🚀 About me</h2>
+
+- 🎓 System Analysis and Development Student  
+- 🧑‍💻 Passionate about technology and challenges  
+- 📊 SENAI certified courses in AI, Cybersecurity and Excel  
+- 🏆 Olympic competitor at SP-Skills
+- 🥇 Recognized as a Gold Medal Student by SENAI for academic excellence
+
+    </td>
+  </tr>
 </table>
 
 
@@ -32,6 +40,12 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
+
+---
+
+## 🔥 Current Focus
+- 🌱 Deepen JavaScript & PHP
+- 🎯 Goal: Become a Full Stack Developer
 
 ---
 
