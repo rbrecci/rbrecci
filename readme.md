@@ -1,4 +1,8 @@
-# Hi, I'm Brecci
+<p align="center">
+  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="4" width="100%">
+</p>
+
+# Hi, I'm RBrecci
 <table width="100%">
   <tr>
     <td>
@@ -14,7 +18,12 @@
     </td>
 
 <td style="vertical-align: middle; text-align: center;">
-<h2 align="center">🚀 About me</h2>
+<div align="center">
+  
+### 🚀 A B O U T &nbsp; M E
+<br>
+
+</div>
 
 - 🎓 System Analysis and Development Student  
 - 🧑‍💻 Passionate about technology and challenges  
@@ -27,9 +36,15 @@
 </table>
 
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="1" width="100%">
+</p>
 
-## 🛠️ Skills
+<div>
+  
+### 🛠️ S K I L L S
+
+</div>
 
 <div>
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -41,15 +56,28 @@
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="1" width="100%">
+</p>
 
-## 🔥 Current Focus
+<div>
+  
+### 🔥 C U R R E N T &nbsp; F O C U S
+
+</div>
+
 - 🌱 Deepen JavaScript & PHP
 - 🎯 Goal: Become a Full Stack Developer
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="1" width="100%">
+</p>
 
-## 🌍 Connect with me  
+<div>
+  
+### 🌍 C O N N E C T &nbsp; W I T H &nbsp; M E
+
+</div>
 
 <p align="left">
     <a href="https://discordapp.com/users/.sakker." target="_blank">
@@ -73,4 +101,8 @@
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
         />
     </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="4" width="100%">
 </p>
