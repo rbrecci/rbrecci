@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="4" width="100%">
+  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="3" width="100%">
 </p>
 
 # Hi, I'm RBrecci
@@ -104,5 +104,5 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="4" width="100%">
+  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="3" width="100%">
 </p>
