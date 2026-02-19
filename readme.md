@@ -1,10 +1,10 @@
 # Hi, I'm Brecci
-<table>
+<table width="100%">
   <tr>
-    <td style="padding-right: 25px;">
+    <td>
       <img 
         src="https://media.tenor.com/shZ2TUcYwbIAAAAM/grimm.gif" 
-        width="200"
+        width="250"
         style="border: 4px solid #F50033; border-radius: 10px;"
       />
       <br><br>
