@@ -25,11 +25,11 @@
 
 </div>
 
-<p align="center">🎓 System Analysis and Development Student</p>  
-<p align="center">🧑‍💻 Passionate about technology and challenges</p>
-<p align="center">📊 SENAI certified courses in AI, Cybersecurity and Excel  </p>
-<p align="center">🏆 Olympic competitor at SP-Skills</p>
-<p align="center">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;🥇 Recognized as a Gold Medal Student by SENAI for academic excellence &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p> 
+- 🎓 System Analysis and Development Student
+- 🧑‍💻 Passionate about technology and challenges
+- 📊 SENAI certified courses in AI, Cybersecurity and Excel
+- 🏆 Olympic competitor at SP-Skills
+- 🥇 Recognized as a Gold Medal Student by SENAI for academic excellence &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
   </td>
   </tr>
