@@ -26,7 +26,7 @@
 </div>
 
 - 🎓 System Analysis and Development Student
-- 🧑‍💻 Passionate about technology and challenges
+- 💻 Passionate about technology and challenges
 - 📊 SENAI certified courses in AI, Cybersecurity and Excel
 - 🏆 Olympic competitor at SP-Skills
 - 🥇 Recognized as a Gold Medal Student by SENAI for academic excellence &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
@@ -55,6 +55,7 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
     <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+    <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" /> 
 </div>
 
 <p align="center">
