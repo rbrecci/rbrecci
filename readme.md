@@ -20,7 +20,7 @@
 <td style="vertical-align: middle; text-align: center;">
 <div align="center">
   
-### 🚀 A B O U T &nbsp; M E
+### A B O U T &nbsp; M E
 <br>
 
 </div>
@@ -42,7 +42,7 @@
 
 <div>
   
-### 🛠️ S K I L L S
+### S K I L L S
 
 </div>
 
@@ -64,7 +64,7 @@
 
 <div>
   
-### 🔥 C U R R E N T &nbsp; F O C U S
+### C U R R E N T &nbsp; F O C U S
 
 </div>
 
@@ -77,7 +77,7 @@
 
 <div>
   
-### 🌍 C O N N E C T &nbsp; W I T H &nbsp; M E
+### C O N N E C T &nbsp; W I T H &nbsp; M E
 
 </div>
 
