@@ -3,33 +3,38 @@
 </p>
 
 # Hi, I'm RBrecci
+
 <table width="100%">
   <tr>
-    <td>
+    <td width="270" valign="top">
       <img 
         src="https://media.tenor.com/shZ2TUcYwbIAAAAM/grimm.gif" 
         width="250"
-        style="border: 4px solid #F50033; border-radius: 10px;"
+        style="border: 1px solid #F50033; border-radius: 10px;"
       />
       <br><br>
-      <p align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=F50033&width=250&lines=Welcome+to+my+profile!" />
+      <p align="left">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=F50033&width=250&center=true&lines=wWelcome+to+my+profile!;Future+Full+Stack+Dev;Always+learning" />
       </p>
     </td>
 
-<td style="vertical-align: middle; text-align: center;">
+<td width="700" valign="middle">
 <div align="center">
   
 ### A B O U T &nbsp; M E
 <br>
 
-</div>
+🎓&nbsp; System Analysis and Development Student
 
-- 🎓 System Analysis and Development Student
-- 💻 Passionate about technology and challenges
-- 📊 SENAI certified courses in AI, Cybersecurity and Excel
-- 🏆 Olympic competitor at SP-Skills
-- 🥇 Twice recognized as a Gold Medal Student by SENAI for academic excellence &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+💻&nbsp; Passionate about technology and challenges
+
+📊&nbsp; SENAI certified in AI, Cybersecurity and Excel
+
+🏆&nbsp; Olympic competitor at SP-Skills
+
+🥇&nbsp; Twice awarded Gold Medal Student by SENAI
+
+</div>
 
   </td>
   </tr>
@@ -58,6 +63,18 @@
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
     <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="1" width="100%">
+</p>
+
+<div>
+  
+### G I T H U B &nbsp; S T A T S
+
+</div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=rbrecci&hide_border=true&background=0d1117&stroke=F50033&ring=F50033&fire=F50033&currStreakLabel=F50033&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/- -F50033?style=flat" height="1" width="100%">
