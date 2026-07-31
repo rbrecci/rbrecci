@@ -29,7 +29,7 @@
 - 💻 Passionate about technology and challenges
 - 📊 SENAI certified courses in AI, Cybersecurity and Excel
 - 🏆 Olympic competitor at SP-Skills
-- 🥇 Two times recognized as a Gold Medal Student by SENAI for academic excellence &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+- 🥇 Twice recognized as a Gold Medal Student by SENAI for academic excellence &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 
   </td>
   </tr>
