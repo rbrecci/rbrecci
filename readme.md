@@ -70,18 +70,6 @@
 
 <div>
   
-### G I T H U B &nbsp; S T A T S
-
-</div>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rbrecci&hide_border=true&background=0d1117&stroke=F50033&ring=F50033&fire=F50033&currStreakLabel=F50033&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="Streak" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/- -F50033?style=flat" height="1" width="100%">
-</p>
-
-<div>
-  
 ### C U R R E N T &nbsp; F O C U S
 
 </div>
